@@ -32,7 +32,7 @@ This project implements and compares various NLP techniques for intent classific
 
 ## Project architecture
 
-![image]([https://github.com/jeanbayiha24/Intent_Detection_on_Banking77/blob/main/intent_detection_on_banking77.png])
+![image](https://github.com/jeanbayiha24/Intent_Detection_on_Banking77/blob/main/intent_detection_on_banking77.png)
 
 
 ## Installation
